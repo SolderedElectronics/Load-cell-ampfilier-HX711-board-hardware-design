@@ -111,3 +111,18 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Load-cell ampfilier HX711 board with easy C to Load-cell-ampfilier-HX711-board-with-easy-C-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Load-cell ampfilier HX711 board/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 957f56e] Updating open source files.
+ 1 file changed, 15 insertions(+)
+https://github.com/SolderedElectronics/Load-cell-ampfilier-HX711-board-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Load-cell ampfilier HX711 board with easy C/OUTPUTS/V1.1.1: all files are present, commiting...
+Load-cell-ampfilier-HX711-board-with-easy-C-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Load-cell ampfilier HX711 board with easy C to Load-cell-ampfilier-HX711-board-with-easy-C-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Load-cell ampfilier HX711 board/.git/
